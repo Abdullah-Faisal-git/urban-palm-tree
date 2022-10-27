@@ -1,12 +1,12 @@
 [
     {
-	"fileVersion": 2,
+	"fileVersion": 3,
         "fileSize": 199454,
         "manufacturerCode": 4151,
         "imageType": 262,
-        "sha512": "4561206e190f603ffc8638f151885440c4390a8541c520ddf7bf9c3f6d9061be03b1441c4e5d97d0f94d5a65c2322edab3729bca01ae067d54c80686b3c34b66",
-        "url": "https://github.com/Engr-Abd/urban-palm-tree/blob/main/LTOSensor_NtagIcode_Ota_OM15081R2_V2.ota",
-	"path":"images/Jennic/LTOSensor_NtagIcode_Ota_OM15081R2_V2.ota",
+        "sha512": "6ae40a9c4a2bf90fcf5390f94b1cc578db2293e5ed3d9cf2bd0f15d2e56790143ec60494c607b7e5a71e37414876a3a74afeee814f53253154784aac5970c72c",
+        "url": "https://github.com/Engr-Abd/urban-palm-tree/blob/main/LTOSensor_NtagIcode_Ota_OM15081R2_V3.ota",
+	"path":"images/LTOSensor_NtagIcode_Ota_OM15081R2_V3.ota",
 	"force": true
     }
 ]
