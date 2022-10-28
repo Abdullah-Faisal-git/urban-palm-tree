@@ -5,7 +5,7 @@
         "manufacturerCode": 4151,
         "imageType": 262,
         "sha512": "6ae40a9c4a2bf90fcf5390f94b1cc578db2293e5ed3d9cf2bd0f15d2e56790143ec60494c607b7e5a71e37414876a3a74afeee814f53253154784aac5970c72c",
-        "url": "/home/pi/Downloads/zigbee2mqtt/images/LTOSensor_NtagIcode_Ota_OM15081R2_V3.ota",
+        "url": "https://github.com/Engr-Abd/urban-palm-tree/blob/main/LTOSensor_NtagIcode_Ota_OM15081R2_V3.ota",
 	"path":"images/LTOSensor_NtagIcode_Ota_OM15081R2_V3.ota"
 
     }
